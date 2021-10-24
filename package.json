@@ -1,0 +1,37 @@
+{
+  "name": "electronStudy1",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^15.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-icons": "^1.6.1",
+    "gridjs": "^5.0.2",
+    "jquery": "^3.6.0",
+    "myql": "^1.0.0",
+    "mysql": "^2.18.1",
+    "popper.js": "^1.16.1",
+    "tether": "^1.4.7"
+  },
+  "standard": {
+    "globals": [
+      "$"
+    ]
+  }
+}
